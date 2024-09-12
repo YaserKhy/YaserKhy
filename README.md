@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me 🙋‍♂️</h2>
 
 ###
 
 <p align="left">
-  🙋‍♂️ Computer Science fresh graudate from Umm Al-Qura University. <br>
-  💻 <b>Passionate</b> software developer who's always driven by **continues learning** and **bringing ideas to life** ⚡. <br>
+  🌐 Computer Science fresh graudate from Umm Al-Qura University. <br>
+  💻 <b>Passionate</b> software developer who's always driven by <b>continues learning</b> and <b>bringing ideas to life ⚡</b>. <br>
   ✨ Interested in Mobile Application Development, Artificial Intelligence, and Data Science. <br>
-  📚 Currently learning **Flutter** 📱. <br>
+  📚 Currently learning <b>Flutter</b> 📱. <br>
 </p>
 
 ###
