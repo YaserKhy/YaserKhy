@@ -13,7 +13,7 @@
 <p align="left">
   🌐 Computer Science fresh graudate from Umm Al-Qura University. <br>
   💻 <b>Passionate</b> software developer who's always driven by <b>continues learning</b> and <b>bringing ideas to life ⚡</b>. <br>
-  ✨ Interested in Mobile Application Development, Artificial Intelligence, and Data Science. <br>
+  ✨ Interested in Mobile Application Development, Front End Development, and Artificial Intelligence. <br>
   📚 Currently learning <b>Flutter</b> 📱. <br>
 </p>
 
