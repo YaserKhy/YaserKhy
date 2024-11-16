@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yaser Alkhayyat, I'm a Flutter Developer and Data Scientest</p>
+<p align="left">My name is Yaser Alkhayyat, I'm a Software Developer</p>
 
 ###
 
